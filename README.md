@@ -1,14 +1,5 @@
 
 # 🏥 Hospital Readmission Prediction Using Ensemble Learning
-
-## 📌 Overview
-This project presents a comprehensive machine learning approach to predict hospital readmission rates using ensemble learning techniques. The study leverages the **FY 2024 Hospital Readmissions Reduction Program dataset** to develop predictive models that can help healthcare institutions identify patients at high risk of readmission and implement preventive measures.
-
-## 📑 Abstract
-Hospital readmissions represent a significant challenge in healthcare, affecting patient outcomes and increasing healthcare costs. This project implements advanced machine learning algorithms including **Multi-Layer Perceptron (MLP)**, **XGBoost**, and **CatBoost regressors** combined in an **ensemble learning framework** to predict excess readmission ratios. The ensemble approach demonstrates superior performance compared to individual models, achieving improved accuracy and robustness in predicting hospital readmission patterns.
-
----
-
 ## 🚀 Badges & Tools
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9%2B-red.svg)](https://pytorch.org/)
@@ -21,6 +12,22 @@ Hospital readmissions represent a significant challenge in healthcare, affecting
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xD_twIV6z6kD_YH3LAM0j-4j7Q6I7mUf)
 
 ---
+
+## 🚀 Run on Google Colab
+
+🔗 [Open the Notebook in Google Colab](https://colab.research.google.com/drive/1B3MA-TlDmo2XkLJtL1ShfQjgBawmjxZg)
+
+---
+
+## 📌 Overview
+This project presents a comprehensive machine learning approach to predict hospital readmission rates using ensemble learning techniques. The study leverages the **FY 2024 Hospital Readmissions Reduction Program dataset** to develop predictive models that can help healthcare institutions identify patients at high risk of readmission and implement preventive measures.
+
+## 📑 Abstract
+Hospital readmissions represent a significant challenge in healthcare, affecting patient outcomes and increasing healthcare costs. This project implements advanced machine learning algorithms including **Multi-Layer Perceptron (MLP)**, **XGBoost**, and **CatBoost regressors** combined in an **ensemble learning framework** to predict excess readmission ratios. The ensemble approach demonstrates superior performance compared to individual models, achieving improved accuracy and robustness in predicting hospital readmission patterns.
+
+---
+
+
 
 ## 📊 Dataset
 The analysis utilizes the **FY 2024 Hospital Readmissions Reduction Program Hospital dataset**, which contains comprehensive information about hospital readmission metrics across various healthcare facilities in the United States.
